@@ -112,6 +112,11 @@ Files\\68e7f326428f9f2dd58d14418690fc0.png](./media/image1.png)
 
 ![](./media/image6.png)
 
+每次告诉我license无效我都得重新激活一次才行，否则create new component这个按钮会变成灰色的！
+
+![C:\\Users\\ZTL\\AppData\\Local\\Temp\\WeChat
+Files\\8926b8db88631d1c924dbe0566c0543.png](./media/image7.png)
+
 **以下内容不用管**
 
 **=======================================================**
@@ -126,7 +131,7 @@ MinGW-w64 - for 32 and 64 bit Windows
 
 <https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download>
 
-![](./media/image7.png)
+![](./media/image8.png)
 
 \==========================================================
 
@@ -146,12 +151,24 @@ PSCAD运行环境设置
 
 •数据导出及分析
 
-![](./media/image8.emf)
+![](./media/image9.emf)
 
-![](./media/image9.png) ![](./media/image10.png)
+![](./media/image10.png) ![](./media/image11.png)
+
+在设置model的时候，Page module 必选。
 
 # 成功啦
 
-![](./media/image11.png)
+![](./media/image12.png)
+
+Test 示波器使用
+
+![C:\\Users\\ZTL\\AppData\\Local\\Temp\\WeChat
+Files\\bcd51dde2b964e4ba56f2be8bd81cca.png](./media/image13.png)
+
+Test2 模块使用
+
+![C:\\Users\\ZTL\\AppData\\Local\\Temp\\WeChat
+Files\\8aaf846ed75daf4e9d1e52c57b56ba6.png](./media/image14.png)
 
 pandoc -t gfm --extract-media . -o README.md Debug.docx
